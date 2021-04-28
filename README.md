@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mjacoboniz
 - 👀 I’m interested in Machine learning, Big Data and Backend development
 - 🌱 I’m currently learning Java and Python!! 
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 You find me on Twitter @JacoboNiz or Reddit @FoxyOdisi
 
 <!---

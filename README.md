@@ -1,4 +1,4 @@
-### Hi, I’m @mjacoboniz
+### Hi, I’m Mauricio Niz Mejia
 ---
 *I'm DevOps Engineer and I have experience with the following tools:*
 - Bash and Python Script

@@ -9,4 +9,4 @@
 
 I’m currently learning more about SRE!! 
 
-> 📫 You find me on X @JacoboNiz
+> 📫 You find me on X [@JacoboNiz](https://twitter.com/JacoboNiz) and [LinkedIn](https://www.linkedin.com/in/m-niz-mejia/) 

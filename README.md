@@ -1,14 +1,12 @@
-- 👋 Hi, I’m @mjacoboniz
-- I'm DevSecOps Engineer
-- I have experience with the following tools:
+### Hi, I’m @mjacoboniz
+---
+*I'm DevOps Engineer and I have experience with the following tools:*
+- Bash and Python Script
 - Docker/Kubernetes
 - Azure/GCP
-- I'm certified as PSE GitLab
-- 🌱 I’m currently learning Java and Python!! 
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 You find me on X @JacoboNiz
+- DevSecOps
+- I'm certified as [PSE GitLab](https://www.credly.com/badges/56192b3c-902f-465c-ae10-c8f2d769e954)
 
-<!---
-mjacoboniz/mjacoboniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m currently learning more about SRE!! 
+
+> 📫 You find me on X @JacoboNiz

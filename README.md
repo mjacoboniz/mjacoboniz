@@ -1,7 +1,7 @@
 ### Hi, I’m Mauricio Niz Mejia
 ---
 *I'm DevOps Engineer and I have experience with the following tools:*
-- Bash and Python Script and now I'm learning GoLang
+- Bash and Python Script and now learning GoLang
 - Docker/Kubernetes
 - Azure/GCP
 - DevSecOps

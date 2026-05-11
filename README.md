@@ -1,7 +1,7 @@
 ### Hi, I’m Mauricio Niz Mejia
 ---
 *I'm DevOps Engineer and I have experience with the following tools:*
-- Bash and Python Script
+- Bash and Python Script and now I'm learning GoLang
 - Docker/Kubernetes
 - Azure/GCP
 - DevSecOps
@@ -9,4 +9,4 @@
 
 I’m currently learning more about SRE!! 
 
-> 📫 You find me on X [@JacoboNiz](https://twitter.com/JacoboNiz) and [LinkedIn](https://www.linkedin.com/in/m-niz-mejia/) 
+> 📫 You find me on X [@JacoboNiz](https://twitter.com/JacoboNiz) and [LinkedIn](https://www.linkedin.com/in/m-niz-mejia) 
